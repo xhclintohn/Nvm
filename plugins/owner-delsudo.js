@@ -20,7 +20,7 @@ let handler = async (m, { conn, text }) => {
     });
 }
 
-handler.help = ['removeowner @user'];
+handler.help = ['removeowner @user', 'ro @user'];
 handler.tags = ['owner'];
 handler.command = /^(remove|del|-)(owner|sudo)$/i;
 handler.owner = true;

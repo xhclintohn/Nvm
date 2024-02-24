@@ -19,27 +19,23 @@ import {
   *%ucpn*
 ⍟────────────────⍟
 *REMEMBER THIS BOT IS FOR*
-*EDUCATIONAL PERPOSES*
+*PROTECTING THE NATION*
 ⍟────────────────⍟
-*©Salman Ahmand*
+*©Samuel Muli*
 ⍟────────────────⍟
-*_Konnichiwa! Its XLICON-MD A_* 
+*_Nikwakya! Its Shotgun_Suppressor A_* 
 *_Multi-Device Whatsapp BOT_*
-*_Recoded By Salman Ahmad And Abraham Dwamena_*
+*_Recoded By Samuel Muli_*
 ⍟────────────────⍟
                                     
- ▀▄▀ █░░ █ █▀▀ █▀█ █▄░█  
- █░█ █▄▄ █ █▄▄ █▄█ █░▀█  
-          
- █▀▄▀█ █▀▄
- █░▀░█ █▄▀
+Shotgun_Suppressor
  
 ╭─────────────────⦿
 ┃    🔰〘 𝙄𝙉𝙁𝙊 〙🔰
 ╰┬────────────────⦿
 ┌┤
 ┃
-┃ *_Founder_*: Salman Ahmad 
+┃ *_Founder_*: Samuel Muli 
 ┃ *_Bot Name_*: ${botname}
 ┃ *_Mode_*: %mode
 ┃ *_HOST_*: kali Linix
@@ -57,7 +53,7 @@ import {
 ┃
 ┃ *_Name_*: %name
 ┃ *_Gold_*: %credit
-┃ *_Role_*: XLICON-MD-TESTER
+┃ *_Role_*: Nation Protector
 ┃ *_Level_*: %level [ %xp4levelup Xp For Levelup]
 ┃ *_Xp_*: %exp / %maxexp
 ┃ *_Total Xp_*: %totalexp

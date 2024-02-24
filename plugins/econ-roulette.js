@@ -14,7 +14,7 @@ let handler = async (m, { conn, args, text, usedPrefix , command }) => {
     if (isNaN(amount) || amount < 500) throw `✳️ The minimum bet is 500 gold`
     if (!colores.includes(color)) throw '✳️ You must specify a valid color: red or black'
     if (user.credit < amount) throw '✳️ You do not have enough gold!'
-    if (amount > 100000) throw `🟥 *You can't bet gold more than 100000*`
+    if (amount > 10000000) throw `🟥 *You can't bet gold more than 10000000*`
    let result = ''
     if (colour == color) {
         result = `${colour == 'red' ? 'The ball landed on 🔴' : 'The ball landed on ⚫'} \n\nYou won ${amount * 2} gold`

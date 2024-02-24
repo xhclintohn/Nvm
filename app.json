@@ -1,16 +1,16 @@
 {
-  "name": "whatsapp-bot (X-BOT)",
-  "description": " Whatsapp bot.",
+  "name": "Shotgun_Suppressor Bot)",
+  "description": " Nation Protector",
   "keywords": [
-    "whatsapp bot"
+    "Nation Protector"
   ],
-  "repository": "https://github.com/salmanytofficial/XLICON-V2-MD/main",
+  "repository": "https://github.com/Samuel-Muli/XLICON-V2-MD/main",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
       "description": "your mongodb database url",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "mongodb+srv://Dulcet:bPvcHEcnv1WmQ1q3@whatsapp1.2tgdioj.mongodb.net/?retryWrites=true&w=majority"
     },
     "SESSION_ID": {
       "description": "your session id",
@@ -24,8 +24,8 @@
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "."
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -39,13 +39,13 @@
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "true"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "true"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",

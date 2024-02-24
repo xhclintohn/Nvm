@@ -3,27 +3,23 @@ let handler = async m => m.reply(`
 
 
 
-⎯꯭̽ *GROUPS*⎯꯭̽.
-─━━━✧✿✧━━━─
+    ⎯꯭̽ *GROUPS*⎯꯭̽.
+    ─━━━✧✿✧━━━─
 
 Group1:
-_____________________
-https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk
-_______________________
+https://chat.whatsapp.com/IJ3M3dQ2ZxcGAJYxfz5OzK
 
-Group2:
-_______________________
-https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW
+https://chat.whatsapp.com/IW866EwDmuC9wrVju3KMBX
+_________________________
+_________________________
 _________________________
 
-*DEVELOPERS*/
-1:___________________🔰 *MOD'S* 🔰_
-wa.me/923184070915
-𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -𝘼𝙝𝙢𝙢𝙞
+*DEVELOPER*/
+1:___________________\n🔰 *MOD* 🔰_
+  |  wa.me/254705244235
+  |  SaMuli
+  |>>>>>>>>>>>>>>>>>>>>>|
 
-2:__________________🔰 *MOD'S* 🔰_
-wa.me/233533763772
-*ABRAHAM DWAMENA*
 _______________________
 𝐋ᶦᵏᵉ  𝐂ᵒᵐᵐᵉⁿᵗ   𝐒ᵃᵛᵉ   𝐒ʰᵃʳᵉ
 💫   🍷   🎊   🍁   🌙   🪄 
@@ -35,10 +31,10 @@ _______________________
 ┊   💛
 ❤️
 *_▬▭▬▭▬▭▬▭▬▭_*
-*╰─ ➤XLICON V2*                    
+*╰─ ➤Shotgun_Suppressor*                    
                      ☟︎︎︎
- *̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊╰─☞︎︎︎TEAM XLICON
-Salman amand & Abraham Dwamena
+ *̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊╰─☞︎︎︎TEAM Shotgun_Suppressor
+SaMuli
  ♥️     ✍🏻ㅤ   📩     📤 
  *_ˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ   ˢᵃᵛᵉ    ˢʰᵃʳᵉ_*
 `.trim())

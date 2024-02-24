@@ -56,10 +56,10 @@ let infobt = `
   *❲❒❳ 
   *❲❒❳ 
   *❲❒❳ 
-🔰 *Created ʙʏ XLICON TEAM* 🔰
+🔰 *Created ʙʏ Nation Protector TEAM* 🔰
 `
 
-conn.sendMessage(m.chat,{video : {url :"https://telegra.ph/file/21db634495279e155c37c.mp4",}, caption:infobt,gifPlayback:true },{quoted:m})
+conn.sendMessage(m.chat,{video : {url :"https://imgur.com/oVNvXwa.mp4",}, caption:infobt,gifPlayback:true },{quoted:m})
 
 
 }

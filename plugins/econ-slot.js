@@ -16,8 +16,8 @@ ${usedPrefix + command} 500*`.trim()
     let amount = parseInt(args[0])
     m.react('🎰')
     let users = global.db.data.users[m.sender]
-    let time = users.lastslot + 10000
-    if (new Date - users.lastslot < 10000) throw `⏳ Wait *${msToTime(time - new Date())}* to use again`
+    let time = users.lastslot + 5000
+    if (new Date - users.lastslot < 5000) throw `⏳ Wait *${msToTime(time - new Date())}* to use again`
     if (amount < 500) throw `🟥 *You can't bet gold less than 500*`
     if (users.credit < amount) {
         throw `🟥 *You do not have enough gold to bet*`
@@ -48,7 +48,7 @@ ${usedPrefix + command} 500*`.trim()
     }
     let end;
     if (a == b && b == c) {
-        end = `🎊 *Jackpot!* You won ${amount + amount} gold`
+        end = `🎊 *Jackpot!*\n You won ${amount + amount} gold`
         users.credit += amount + amount
    // } else if (a == b || a == c || b == c) {
    //     end = `You lost  *₹${amount}*\n*But you almost made it keep trying*`
@@ -70,7 +70,7 @@ ${end}`)
 }
 handler.help = ['slot <amount>']
 handler.tags = ['game']
-handler.command = ['slot']
+handler.command = ['slot', 'st']
 
 handler.group = true
 

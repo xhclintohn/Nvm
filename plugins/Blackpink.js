@@ -14,8 +14,6 @@ let handler = async (m, { conn }) => {
 
     if (!img) throw img
 
-    await conn.sendFile(m.chat, img, '', 'made by Team Xlicon', m, 0, { thumbnail: await (await fetch(img)).buffer() })
-
 }
 
 handler.help = ['blackpink']

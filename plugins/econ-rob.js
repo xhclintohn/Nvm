@@ -10,7 +10,7 @@ let handler = async (m, { conn, usedPrefix, command}) => {
     if (!(who in global.db.data.users)) throw `✳️ The user is not found in my database`
     let users = global.db.data.users[who]
     let rob = Math.floor(Math.random() * ro)
-    if (users.exp < rob) return m.reply(`🔖 @${who.split`@`[0]} has less than *${ro} xp*\nDon't steal from a rotten":`, null, { mentions: [who] })    
+    if (users.exp < rob) return m.reply(`🔖 @${who.split`@`[0]} has less than *${ro} xp*\nDon't steal from the *poor*":`, null, { mentions: [who] })    
    global.db.data.users[m.sender].exp += rob
    global.db.data.users[who].exp -= rob
   
@@ -22,7 +22,7 @@ let handler = async (m, { conn, usedPrefix, command}) => {
 
   handler.help = ['rob']
   handler.tags = ['economy']
-  handler.command = ['robar', 'rob']
+  handler.command = ['robber', 'rob']
   
   export default handler
   
