@@ -21,8 +21,8 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "THE XLICON-V2 IS ALIVE 🌟",
-          body: "XLICON BOT",
+          title: "THE Shotgun_Suppressor IS ALIVE 🌟",
+          body: "Shotgun_Suppressor BOT",
           thumbnailUrl: img,
           sourceUrl: 'https://chat.whatsapp.com/IJ3M3dQ2ZxcGAJYxfz5OzK',
           mediaType: 1,
