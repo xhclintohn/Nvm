@@ -29,7 +29,7 @@ let handler = async function (m, { conn, __dirname }) {
       // Send the formatted information as a message
       await conn.relayMessage(m.chat,  {
         requestPaymentMessage: {
-          currencyCodeIso4217: 'INR',
+          currencyCodeIso4217: 'Ksh',
           amount1000: 99999,
           requestFrom: m.sender,
           noteMessage: {

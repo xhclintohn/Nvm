@@ -15,7 +15,7 @@ import {
  
  const defaultMenu = {
   before: `
-  「 ${botname} 🎁XMD 」\n
+  「 ${botname} 🎁Bot 」\n
   *%ucpn*
 ⍟────────────────⍟
 *REMEMBER THIS BOT IS FOR*
@@ -23,7 +23,7 @@ import {
 ⍟────────────────⍟
 *©Samuel Muli*
 ⍟────────────────⍟
-*_Nikwakya! Its Shotgun_Suppressor A_* 
+*_Nikwakya!\n Its Shotgun_Suppressor A_* 
 *_Multi-Device Whatsapp BOT_*
 *_Recoded By Samuel Muli_*
 ⍟────────────────⍟
@@ -249,7 +249,7 @@ Shotgun_Suppressor
  }
  
  function ucapan() {
-  const time = moment.tz("Asia/Kolkata").format("HH")
+  const time = moment.tz("Africa/Nairobi").format("HH")
   let res = "Good morning ☀️"
   if (time >= 4) {
    res = "Good Morning 🌄"
