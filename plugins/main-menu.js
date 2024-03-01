@@ -23,7 +23,7 @@ import {
 ⍟────────────────⍟
 *©Samuel Muli*
 ⍟────────────────⍟
-*_Nikwakya!\n Its Shotgun_Suppressor A_* 
+*_Nikwakya!\n Its Shotgun_Suppressor\n A_* 
 *_Multi-Device Whatsapp BOT_*
 *_Recoded By Samuel Muli_*
 ⍟────────────────⍟
