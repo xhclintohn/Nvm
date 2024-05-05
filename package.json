@@ -1,5 +1,5 @@
 {
-    "name": "gurubot",
+    "name": "ToxicBot",
     "version": "2.0.0",
     "description": "Advanced WhatsApp Bot",
     "main": "index.js",
@@ -25,16 +25,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Guru322/GURU-BOT",
+    "homepage": "https://github.com/xhclintohn/Nvm",
     "author": {
-        "name": "GURU"
+        "name": "xh"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Guru322/GURU-BOT.git"
+        "url": "git+https://github.com/xhclintohn/Nvm.git"
     },
     "bugs": {
-        "url": "https://github.com/Guru322/GURU-BOT/issues"
+        "url": "https://github.com/xhclintohn/Nvm/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
