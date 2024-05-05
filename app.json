@@ -1,10 +1,10 @@
 {
-  "name": "Shotgun_Suppressor Bot)",
-  "description": " Nation Protector",
+  "name": "𝐓𝐨𝐱𝐢𝐜 𝐁𝐨𝐭 )",
+  "description": " Toxic Wa Bot",
   "keywords": [
-    "Nation Protector"
+    "Toxic MD"
   ],
-  "repository": "https://github.com/Samuel-Muli/XLICON-V2-MD/main",
+  "repository": "https://github.com/xhclintohn/Nvm/main",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
@@ -50,7 +50,7 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
