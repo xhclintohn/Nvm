@@ -12,7 +12,7 @@ import cfonts from 'cfonts';
 
 const { say } = cfonts;
 
-say("Shotgun_Suppressor", {
+say("Toxic Bot", {
   'font': "block",
   'align': "center",
   'colors': ['#ff9900'],
@@ -23,7 +23,7 @@ say("Shotgun_Suppressor", {
   'maxLength': '15'
 });
 
-say("Shotgun_Suppressor By Samuel._.", {
+say("Toxic Bot By 𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧._.", {
   'font': "chrome",
   'align': "center",
   'colors': ["red", "magenta"],
