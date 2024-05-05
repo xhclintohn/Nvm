@@ -7,15 +7,15 @@ import axios from 'axios'
 
 
 global.owner = [  
-  ['254705244235', '*Muli*', true],
+  ['254101981059', '*𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧*', true],
  
 ] //Number of owners
 
-//global.pairingNumber = "254708192575" //put your bot number here
+//global.pairingNumber = "254101981059" //put your bot number here
 
-global.mods = ['254708192575','254705244235'] 
-global.prems = ['254708192575','254705244235']
-global.allowed = ['254708192575','254705244235']
+global.mods = ['254101981059','254705244235'] 
+global.prems = ['254101981059','254705244235']
+global.allowed = ['254101981059','254705244235']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,12 +50,12 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Shotgun_Suppressor'
+global.botname = '𝐓𝐨𝐱𝐢𝐜 𝐁𝐨𝐭 '
 global.premium = 'true'
-global.packname = 'SaMuli TEAM' 
-global.author = '@Shotgun_Suppressor' 
+global.packname = 'xh TEAM' 
+global.author = '@𝐓𝐨𝐱𝐢𝐜 𝐁𝐨𝐭 ' 
 global.menuvid = 'https://imgur.com/oVNvXwa.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://chat.whatsapp.com/IW866EwDmuC9wrVju3KMBX\n' 
+global.igfg = '▢✓ Follow My Instagram page channel\nhttps://chat.whatsapp.com/IW866EwDmuC9wrVju3KMBX\n' 
 global.dygp = 'https://chat.whatsapp.com/IW866EwDmuC9wrVju3KMBX'
 global.fgsc = 'https://chat.whatsapp.com/IW866EwDmuC9wrVju3KMBX' 
 global.fgyt = 'https://chat.whatsapp.com/IW866EwDmuC9wrVju3KMBX'
